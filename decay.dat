@@ -1,0 +1,13 @@
+LinePlot
+Life time
+-30 -6 TimeUnit
+p red  0.29  ps $\tau$
+i red  2.085 GeV $W$
+i red  92.6  keV $J/\psi$
+i red  294   keV $\psi(2S)$
+p red  51.1  ns  $K_L$
+p red  89.5  ps $K_S$
+p red  1.5   ps $B^0$
+p red  1.62  ps $B_{sH}$
+p red  1.43  ps $B_{sL}$
+i red  3.2   MeV $H^0$

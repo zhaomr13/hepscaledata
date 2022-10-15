@@ -1,0 +1,17 @@
+LinePlot
+Mass
+4 13 MassUnit
+l blue 1       TeV $$
+l blue 1       GeV $$
+l blue 1       MeV $$
+l blue 100     MeV $$ 
+p red 125.5   GeV $H^0$
+p red 0.5     MeV $e$
+p red 80.377  GeV $W$
+p red 91.18   GeV $Z$
+p red 1776.86 MeV $\tau$
+p red 105.65  MeV $\mu$
+p red 134.98  MeV $\pi^0$
+p red 497.6   MeV $K^0$
+p red 3097    MeV $J/\psi$
+p red 9460.3  MeV $\Upsilon(1S)$
