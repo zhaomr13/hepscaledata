@@ -1,6 +1,10 @@
 LinePlot
 Life time
 -30 -6 TimeUnit
+q blue 197 MeV
+l green 1 ps
+l green 1 fs
+l #66ccff 1 fm r
 p red  0.29  ps $\tau$
 i red  2.085 GeV $W$
 i red  92.6  keV $J/\psi$

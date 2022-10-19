@@ -1,0 +1,14 @@
+LinePlot
+Quark Gluon Plasma related time
+-27 -21 TimeUnit
+q blue 197 MeV
+l green 1 ps
+l green 1 fs
+l #66ccff 1 fm r
+p red  0.29  ps $\tau$
+i red  2.085 GeV $\Gamma(W)$
+i red  80.3  GeV $m(W)$
+p red  10    fm  QGP~life~time
+p red  0.2   fm  QGP~thermalization
+p red  0.005 fm  Collision~time
+p red  1     fm  $\tau_0$
